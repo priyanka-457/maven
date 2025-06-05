@@ -1,5 +1,5 @@
 trigger: [main]
-pool: {name: 'mypool3'}
+pool: {name: 'mypool8'}
 
 steps:
 - checkout: self
